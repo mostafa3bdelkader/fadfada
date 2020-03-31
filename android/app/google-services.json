@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "333609770011",
+    "firebase_url": "https://fadfada-9bd62.firebaseio.com",
+    "project_id": "fadfada-9bd62",
+    "storage_bucket": "fadfada-9bd62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:333609770011:android:cc59e31a01830244daecbe",
+        "android_client_info": {
+          "package_name": "com.mostafa3bdelkader.fadfada"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "333609770011-hinqsu64dgbo2beedc8v6pio6k2jcetn.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAWe4QvaNZpkoP-ftkliFGHO5PHcV3nN5E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "333609770011-hinqsu64dgbo2beedc8v6pio6k2jcetn.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

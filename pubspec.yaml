@@ -1,0 +1,52 @@
+name: fadfada
+description: A new Flutter application.
+
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.1.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^0.1.2
+  animated_text_kit: ^1.3.1
+  firebase_core: ^0.4.2+1
+  firebase_auth: ^0.15.1
+  cloud_firestore: ^0.12.11
+  google_sign_in: ^4.0.14
+  font_awesome_flutter: ^8.5.0
+  flutter_sound: ^1.6.0
+  intl: ^0.16.0
+  firebase_storage: ^3.0.10
+  nanoid: ^0.1.0
+  path_provider: ^1.5.1
+  dio: ^3.0.7
+  time_ago_provider: ^1.0.3
+  image_picker: ^0.5.0
+  regexed_validator: ^1.0.2
+  rich_alert: ^0.1.32
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+
+
+flutter:
+
+
+  uses-material-design: true
+
+  assets:
+    - Images/
+
+  fonts:
+    - family: Acme
+      fonts:
+        - asset: fonts/Acme-Regular.ttf
+    - family: Bebas Neue
+      fonts:
+        - asset: fonts/BebasNeue-Regular.ttf
